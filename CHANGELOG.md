@@ -1,5 +1,8 @@
 # CHANGELOG
 
+## v2.0.4 - 2013-05-08
+* Renamed all strings/variables with `uniqueIdentifier`
+
 ## v2.0.2 - 2013-02-12
 * Added 'share' capability
 * Small bug fixes
